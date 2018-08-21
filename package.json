@@ -1,0 +1,22 @@
+{
+  "name": "cs4830",
+  "version": "1.0.0",
+  "description": "server for cs4830",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlecRichardson/CS4830.git"
+  },
+  "author": "Alec Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlecRichardson/CS4830/issues"
+  },
+  "homepage": "https://github.com/AlecRichardson/CS4830#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
